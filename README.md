@@ -1,5 +1,5 @@
 # Project Title: Ensemble Book Recommendation System
-<br>
+
 ## Overview
 
 Welcome to our Customized Book Recommendation System! This project is a creative blend of innovative ideas, utilizing a three-part methodology to ensure users receive personalized and accurate book recommendations. Our approach involves a Recommendation Engine, an Ensembling algorithm, and a commitment to clarity in user interactions.
