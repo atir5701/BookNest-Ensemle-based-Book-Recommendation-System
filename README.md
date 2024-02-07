@@ -20,5 +20,7 @@ Our dedication to accuracy and customization is evident in the collaborative fil
 
 Adding complexity to our system, the Ensembling algorithm combines suggestions from different algorithms into a single recommendation. This approach enhances the overall knowledge of the system, offering users a well-rounded and reliable set of book suggestions.
 
+![alt text](arch.png)
+
 ## User Interaction<a name="user-interaction"></a>
 The third part of our methodology focuses on user participation. Clear and concise suggestions are presented to users, encouraging engagement and making the entire process transparent and user-friendly.
