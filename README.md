@@ -1,12 +1,12 @@
-# Project Title: Ensemble Book Recommendation System
+# Project Title:  BookNest : An Ensemble Based Book Recommendation System
 
 ## Overview
 
-Welcome to our Customized Book Recommendation System! This project is a creative blend of innovative ideas, utilizing a three-part methodology to ensure users receive personalized and accurate book recommendations. Our approach involves a Recommendation Engine, an Ensembling algorithm, and a commitment to clarity in user interactions.
+Welcome ! This project is a creative blend of innovative ideas, utilizing a three-part methodology to ensure users receive personalized and accurate book recommendations. Our approach involves a Recommendation Engine, an Ensembling algorithm, and a commitment to clarity in user interactions.
 
 ## Introduction<a name="introduction"></a>
 
-Our Customized Book Recommendation System is designed to provide users with tailored book suggestions by combining traditional collaborative filtering, TF-IDF for natural language processing, and genre-centric preferences. This README will guide you through the key components of our system, ensuring a smooth setup and understanding of the project.
+The proposed system is designed to provide users with tailored book suggestions by combining traditional collaborative filtering, TF-IDF for natural language processing, and genre-centric preferences. This README will guide you through the key components of our system, ensuring a smooth setup and understanding of the project.
 
 ## Recommendation Engine<a name="recommendation-engine"></a>
 
