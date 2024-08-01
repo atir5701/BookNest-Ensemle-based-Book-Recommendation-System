@@ -1,4 +1,4 @@
-# Project Title:  BookNest : An Ensemble Based Book Recommendation System
+# BookNest : An Ensemble Based Book Recommendation System
 
 ## Overview
 
